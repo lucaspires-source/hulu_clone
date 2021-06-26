@@ -20,7 +20,7 @@ export default function Header() {
                 <HeaderItem title='SEARCH' Icon={SearchIcon}/>
                 <HeaderItem title='ACCOUNT' Icon={UserIcon}/>
             </div>
-            <Image classname="object-contain" src="https://links.papareact.com/ua6"  width={200} height={100} alt="logo"/>
+            <Image className="object-contain" src="https://links.papareact.com/ua6"  width={200} height={100} alt="logo"/>
         </header>
     )
 }
